@@ -11,5 +11,5 @@ def aqi_parameters(aqi):
     elif aqi<=200:
         return "Air quality is manageable, but indoor workouts may feel better."
     else:
-        return "Masks help, especially near traffic-heavy areas."
+        return "Masks help, especially near traffic-heavy aishus."
     
